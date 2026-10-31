@@ -119,6 +119,19 @@ div#cgit div.content {
 	border-bottom: solid 3px #ccc;
 }
 
+div#cgit div.block {
+	margin: 1em 2em;
+	border: solid 1px #ccc;
+	background: white;
+}
+
+div#cgit div.block div.content {
+	margin: 0px;
+	padding: 1em;
+	border: none;
+	border-bottom: none;
+}
+
 
 div#cgit table.list {
 	width: 100%;
