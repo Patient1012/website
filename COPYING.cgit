@@ -1,0 +1,18 @@
+GNU GENERAL PUBLIC LICENSE
+                       Version 2, June 1991
+
+ Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
+ 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+Copyright notices for cgit-derived files:
+- cgit.css is derived from cgit (https://git.zx2c4.com/cgit/)
+- cgit.js is derived from cgit (https://git.zx2c4.com/cgit/)
+- HTML structure is inspired by cgit's HTML generation in ui-*.c files
+  from the official cgit source code.
+- All cgit code is Copyright (C) cgit Development Team, licensed under GPL v2.
+
+See full license text below.
+--- 
+(This file contains the GPL v2 as copied from the cgit source.)
